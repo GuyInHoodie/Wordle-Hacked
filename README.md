@@ -5,6 +5,7 @@ you need to have pygame and python installed
 Just download the main, wordlist and assets, and put them in the same folder. 
 Run "main.py" and boom
 
+To install pygame, go to cmd and type "pip install pygame"
 
 #How to use:
 1. Go to wordle, type in a random word
