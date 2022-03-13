@@ -1,5 +1,7 @@
 # Wordle-Hacked(with GUI)
-you can use this to win 99% of wordle games
+This can help you win wodle so you can flex on your friends
+You can use this to win 99% of wordle games
+
 
 you need to have pygame and python installed
 Just download the main, wordlist and assets, and put them in the same folder. 
@@ -7,7 +9,7 @@ Run "main.py" and boom
 
 To install pygame, go to cmd and type "pip install pygame"
 
-#How to use:
+# How to use:
 1. Go to wordle, type in a random word
 2. Go to wordle hacked, and type in the same word, click on the letters to change the colour, and hit enter after you have copied the word and colours from wordle. 
 3. The game will generate the first 12 four words in its list on the right of the game. 
