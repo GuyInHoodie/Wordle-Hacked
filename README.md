@@ -12,3 +12,7 @@ How to use:
 3. The game will generate the first 12 four words in its list on the right of the game. 
 4. Choose one of the 12 words, and type it into wordle
 5. go back to step 2
+
+
+
+*if you have any suggestions for my code (I know it's bad ok) email me or smt idk)*
