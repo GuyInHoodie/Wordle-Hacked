@@ -1,4 +1,4 @@
-# Wordle-Hacked
+# Wordle-Hacked(with GUI)
 you can use this to win 99% of wordle games
 
 you need to have pygame and python installed
